@@ -1,3 +1,3 @@
 ## Doceode
 
-This is our submission in the TSA 2022 national competition.
+This is our submission in the fbla regional competition.
